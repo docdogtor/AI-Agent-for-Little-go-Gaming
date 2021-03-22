@@ -1,3 +1,4 @@
 # AI-Agent-for-Little-go-Gaming
-Developed an AI agent to play a small version of the Go game, a reduced board size of Go game, based on no- suicide and KO rules. Both game playing and reinforcement learning algorithms were tried to improve the winning percentage. The Q leaning in this project is computational expensive; eventually, minmax algorithm with alpha-
-beta pruning technique was applied and defeated the pre-designed random, greedy, and aggressive players.
+Developed an AI agent to play a small version of the Go game, a reduced board size of Go game, based on no- suicide and KO rules. Both game playing and reinforcement learning algorithms were tried to improve the winning percentage. The Q leaning in this project is computational expensive; eventually, minmax algorithm with alpha-beta pruning technique was applied and defeated the pre-designed random, greedy, and aggressive players.
+
+<p align="center"><img width="170" alt="Screen Shot 2021-03-22 at 11 53 33 AM" src="https://user-images.githubusercontent.com/59182175/112042889-498ce580-8b05-11eb-94a1-716c12385a7f.png"> <img width="171" alt="Screen Shot 2021-03-22 at 11 53 40 AM" src="https://user-images.githubusercontent.com/59182175/112042894-4abe1280-8b05-11eb-9b5e-0dbdf8945672.png"></p>
